@@ -10,7 +10,7 @@
 #include "GameFramework/SpringArmComponent.h"
 #include "Interactable.h"
 #include "AutoPickup.h"
-#include "InventoryItem.h."
+#include "InventoryItem.h"
 #include "InventoryController.h"
 //////////////////////////////////////////////////////////////////////////
 // AInventoryCharacter
